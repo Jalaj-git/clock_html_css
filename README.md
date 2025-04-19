@@ -1,1 +1,3 @@
-# clock_html_css
+# Clock_html_css
+
+Made using HTML, CSS, Javascript
